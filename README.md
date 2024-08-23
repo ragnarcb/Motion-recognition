@@ -41,10 +41,6 @@ pip install requirements.txt
 
 Press `q` to exit.
 
-## Screenshot
-
-![Project Example](screenshot.png)
-
 ---
 
 This version of the README is more straightforward and highlights the main features and usage instructions of the "Motion-recognition" project.
