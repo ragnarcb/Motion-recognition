@@ -1,5 +1,3 @@
-Here is a more concise version of the README for the "Motion-recognition" project:
-
 ---
 
 # Motion-recognition
